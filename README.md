@@ -6,7 +6,6 @@
   <a href="https://console.brev.dev" style="color: #06b6d4;">Console</a> •
   <a href="https://brev.dev" style="color: #06b6d4;">Docs</a> •
   <a href="/" style="color: #06b6d4;">Templates</a> •
-  <a href="https://discord.gg/NVDyv7TUgJ" style="color: #06b6d4;">Discord</a>
 </p>
 
 # Brev.dev Notebooks
