@@ -15,7 +15,7 @@ This repo contains helpful AI/ML notebook templates for LLMs, multi-modal models
 
 ## Contributing
 
-We welcome contributions to this repository! If you have a notebook you'd like to add, please reach out to use the [Discord](https://discord.gg/y9428NwTh3) or open a pull request!
+We welcome contributions to this repository! If you have a notebook you'd like to add, please open a pull request!
 
 ## Notebooks
 
